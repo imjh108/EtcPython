@@ -1,1 +1,1 @@
-"# EtcPython"
+"# Etc Python Utility"
